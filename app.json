@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "ImagenMedicaMRI",
+    "slug": "ImagenMedicaMRI",
+    "version": "1.12.2",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.nomo89.ImagenMedicaMRI"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ad72bbf5-6dfb-4741-9d9e-5abed7df6917"
+      }
+    }
+  }
+}
